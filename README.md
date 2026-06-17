@@ -6,7 +6,7 @@ This repository contains the official implementation of **SL-AD**, a two-stage d
 
 The framework consists of two stages:
 
-1. **Stage I: Temporal Feature Learning**
+1. **Stage I: Sequence Learning**
    - CNN-based local feature extraction
    - Autoformer-based temporal dependency modeling
    - Self-supervised pretraining on large-scale geomagnetic observations
