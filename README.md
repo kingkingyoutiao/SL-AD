@@ -40,14 +40,12 @@ SL-AD/
 
 # Dataset
 
-The dataset used in this study is publicly available.
-
 ### Dataset Download
 
 Google Drive:
 
 ```text
-[https://drive.google.com/file/d/13qck1xCnZcGxHm_Y0GKkL1EXTeVwoXn7/view?usp=drive_link]
+https://drive.google.com/file/d/13qck1xCnZcGxHm_Y0GKkL1EXTeVwoXn7/view?usp=drive_link
 ```
 
 After downloading, place all files into the `dataset/` directory:
