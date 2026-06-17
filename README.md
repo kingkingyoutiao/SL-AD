@@ -56,9 +56,7 @@ After downloading, place all files into the `dataset/` directory:
 dataset/
 ├── datasetdown_pca_train.pkl
 ├── datasetdown_pca_test.pkl
-├── xxxx.npy
-├── xxxx.npy
-└── ...
+└── testdataset
 ```
 
 ---
