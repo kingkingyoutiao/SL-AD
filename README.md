@@ -118,7 +118,7 @@ checkpoint/
 If the checkpoint is not included in this repository due to file size limitations, it can be downloaded from:
 
 ```text
-[Checkpoint Download Link]
+[https://drive.google.com/file/d/13qck1xCnZcGxHm_Y0GKkL1EXTeVwoXn7/view?usp=drive_link]
 ```
 
 ---
@@ -192,21 +192,6 @@ python test.py
 ```
 
 This command reproduces the main classification results reported in the paper.
-
----
-
-# Citation
-
-If you find this repository useful, please cite:
-
-```bibtex
-@article{xxx2026slad,
-  title={Detection of Electromagnetic Temporal Anomalies Associated with Major Earthquakes via a Two-Stage Deep Learning Framework},
-  author={XXX},
-  journal={XXX},
-  year={2026}
-}
-```
 
 ---
 
